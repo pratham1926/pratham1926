@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham1926" alt="pratham1926" /></a> </p>
 
-- 🔭 I’m currently working on [Hrdata](https://github.com/pratham1926/HrData.git)
+- 🔭 I’m currently working on [Twitter Sentiment Analysis](https://github.com/pratham1926/Twitter-Sentiment-Analysis)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Hrdata](https://github.com/pratham1926/HrData.git)
+- 👯 I’m looking to collaborate on [Twitter Sentiment Analysis](https://github.com/pratham1926/Twitter-Sentiment-Analysis)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratham1926](https://github.com/pratham1926)
 
@@ -17,9 +17,12 @@
 
 - 📫 How to reach me **prathamshambharkar19@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VgcNToNYM2xU56I7Mc-VdpicuRmMdgGq/view?usp=drivesdk](https://drive.google.com/file/d/1VgcNToNYM2xU56I7Mc-VdpicuRmMdgGq/view?usp=drivesdk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratham shambharkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham shambharkar" height="30" width="40" /></a>
+<a href="https://instagram.com/_pratham__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pratham__19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
