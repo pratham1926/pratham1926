@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hrdata](https://github.com/pratham1926/HrData.git)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Hrdata](https://github.com/pratham1926/HrData.git)
 
